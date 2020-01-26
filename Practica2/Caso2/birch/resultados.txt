@@ -1,0 +1,28 @@
+----- Ejecutando birch con 2 clusters: 0.46 segundos 
+Calinski-Harabaz Index: 15602.972
+Silhouette Coefficient: 0.53150
+Tamaño de cada cluster:
+1: 11265 (77.56%)
+0:  3260 (22.44%)
+
+***************************************************************************************************
+
+
+----- Ejecutando birch con 3 clusters: 0.46 segundos
+Calinski-Harabaz Index: 15602.972
+Silhouette Coefficient: 0.53150
+Tamaño de cada cluster:
+0: 11265 (77.56%)
+1:  3260 (22.44%)
+/home/david/Universidad/IN/anaconda3/lib/python3.7/site-packages/sklearn/cluster/birch.py:627: ConvergenceWarning: Number of subclusters found (2) by Birch is less than (3). Decrease the threshold.
+  % (len(centroids), self.n_clusters), ConvergenceWarning)
+  
+  
+----- Ejecutando birch con 4 clusters: 0.43 segundos
+Calinski-Harabaz Index: 15602.972
+Silhouette Coefficient: 0.53150
+Tamaño de cada cluster:
+0: 11265 (77.56%)
+1:  3260 (22.44%)
+/home/david/Universidad/IN/anaconda3/lib/python3.7/site-packages/sklearn/cluster/birch.py:627: ConvergenceWarning: Number of subclusters found (2) by Birch is less than (4). Decrease the threshold.
+  % (len(centroids), self.n_clusters), ConvergenceWarning)

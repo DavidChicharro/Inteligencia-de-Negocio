@@ -1,0 +1,1 @@
+----- Ejecutando clustering jerárquico: k:   4,   0.12 segundosDe los 4 clusters hay 4 con más de 10 elementos. Del total de 1000 elementos, se seleccionan 1000

@@ -1,0 +1,90 @@
+----- Ejecutando kmeans para 2 clusters: 0.11 segundos 
+Calinski-Harabaz Index: 15602.972
+Silhouette Coefficient: 0.53150
+Tamaño de cada cluster:
+1: 11265 (77.56%)
+0:  3260 (22.44%)
+----- Ejecutando kmeans para 3 clusters: 0.17 segundos 
+Calinski-Harabaz Index: 16702.353
+Silhouette Coefficient: 0.43182
+Tamaño de cada cluster:
+2:  6545 (45.06%)
+1:  4802 (33.06%)
+0:  3178 (21.88%)
+----- Ejecutando kmeans para 4 clusters: 0.24 segundos 
+Calinski-Harabaz Index: 15230.877
+Silhouette Coefficient: 0.40341
+Tamaño de cada cluster:
+3:  5777 (39.77%)
+1:  3178 (21.88%)
+0:  3110 (21.41%)
+2:  2460 (16.94%)
+----- Ejecutando kmeans para 5 clusters: 0.32 segundos 
+Calinski-Harabaz Index: 15667.491
+Silhouette Coefficient: 0.39706
+Tamaño de cada cluster:
+1:  5776 (39.77%)
+3:  3111 (21.42%)
+4:  2460 (16.94%)
+2:  1783 (12.28%)
+0:  1395 ( 9.60%)
+----- Ejecutando kmeans para 6 clusters: 0.35 segundos 
+Calinski-Harabaz Index: 17763.622
+Silhouette Coefficient: 0.47281
+Tamaño de cada cluster:
+0:  3661 (25.20%)
+3:  3501 (24.10%)
+4:  2100 (14.46%)
+5:  2084 (14.35%)
+1:  1768 (12.17%)
+2:  1411 ( 9.71%)
+----- Ejecutando kmeans para 7 clusters: 0.46 segundos 
+Calinski-Harabaz Index: 18122.939
+Silhouette Coefficient: 0.44473
+Tamaño de cada cluster:
+3:  2759 (18.99%)
+6:  2370 (16.32%)
+0:  2082 (14.33%)
+1:  2075 (14.29%)
+5:  2060 (14.18%)
+4:  1768 (12.17%)
+2:  1411 ( 9.71%)
+----- Ejecutando kmeans para 8 clusters: 0.52 segundos 
+Calinski-Harabaz Index: 17581.980
+Silhouette Coefficient: 0.45494
+Tamaño de cada cluster:
+4:  2758 (18.99%)
+7:  2369 (16.31%)
+3:  2060 (14.18%)
+5:  1768 (12.17%)
+0:  1690 (11.64%)
+2:  1411 ( 9.71%)
+1:  1287 ( 8.86%)
+6:  1182 ( 8.14%)
+----- Ejecutando kmeans para 9 clusters: 0.70 segundos 
+Calinski-Harabaz Index: 17999.897
+Silhouette Coefficient: 0.44289
+Tamaño de cada cluster:
+6:  2761 (19.01%)
+0:  2369 (16.31%)
+1:  2057 (14.16%)
+4:  1690 (11.64%)
+3:  1287 ( 8.86%)
+5:  1235 ( 8.50%)
+7:  1182 ( 8.14%)
+2:  1180 ( 8.12%)
+8:   764 ( 5.26%)
+----- Ejecutando kmeans para 10 clusters: 0.83 segundos 
+Calinski-Harabaz Index: 17793.942
+Silhouette Coefficient: 0.41527
+Tamaño de cada cluster:
+1:  2098 (14.44%)
+6:  1970 (13.56%)
+3:  1781 (12.26%)
+4:  1689 (11.63%)
+9:  1339 ( 9.22%)
+5:  1287 ( 8.86%)
+2:  1235 ( 8.50%)
+7:  1182 ( 8.14%)
+8:  1180 ( 8.12%)
+0:   764 ( 5.26%)

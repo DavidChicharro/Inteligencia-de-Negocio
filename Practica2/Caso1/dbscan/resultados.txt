@@ -1,0 +1,68 @@
+Epsion: 0.15
+----- Ejecutando dbscan: 0.31 segundos
+Calinski-Harabaz Index: 126.824
+Silhouette Coefficient: 0.38253
+Epsilon: 0.15
+Número estimado de clusters: 2
+Número estimado de puntos ruidosos: 141
+Tamaño de cada cluster:
+0:  5213 (97.24%)
+-1:   141 ( 2.63%)
+1:     7 ( 0.13%)
+
+
+Epsion: 0.2
+----- Ejecutando dbscan: 0.35 segundos
+Calinski-Harabaz Index: 96.946
+Silhouette Coefficient: 0.48320
+Epsilon: 0.2
+Número estimado de clusters: 2
+Número estimado de puntos ruidosos: 56
+Tamaño de cada cluster:
+0:  5299 (98.84%)
+-1:    56 ( 1.04%)
+1:     6 ( 0.11%)
+
+
+Epsion: 0.25
+----- Ejecutando dbscan: 0.43 segundos
+Calinski-Harabaz Index: 57.608
+Silhouette Coefficient: 0.49919
+Epsilon: 0.25
+Número estimado de clusters: 2
+Número estimado de puntos ruidosos: 23
+Tamaño de cada cluster:
+0:  5331 (99.44%)
+-1:    23 ( 0.43%)
+1:     7 ( 0.13%)
+
+
+
+Epsion: 0.3
+----- Ejecutando dbscan: 0.54 segundos
+Calinski-Harabaz Index: 41.326
+Silhouette Coefficient: 0.53719
+Epsilon: 0.3
+Número estimado de clusters: 1
+Número estimado de puntos ruidosos: 10
+Tamaño de cada cluster:
+0:  5351 (99.81%)
+-1:    10 ( 0.19%)
+
+
+
+Epsion: 0.35
+----- Ejecutando dbscan: 0.66 segundos
+Calinski-Harabaz Index: 20.832
+Silhouette Coefficient: 0.53985
+Epsilon: 0.35
+Número estimado de clusters: 1
+Número estimado de puntos ruidosos: 3
+Tamaño de cada cluster:
+0:  5358 (99.94%)
+-1:     3 ( 0.06%)
+
+
+Epsion: 0.4
+----- Ejecutando dbscan: 0.72 segundos
+**************ROTO*****************

@@ -1,0 +1,6 @@
+----- Ejecutando MeanShift: 3.40 segundos 
+Calinski-Harabaz Index: 15601.695
+Silhouette Coefficient: 0.53150
+Tamaño de cada cluster:
+0: 11258 (77.51%)
+1:  3267 (22.49%)
