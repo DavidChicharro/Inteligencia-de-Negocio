@@ -57,14 +57,14 @@ km.kmeans(X1, X1_normal, usadas1, caso_estudio)
 msh.meanshift(X1, X1_normal, usadas1, caso_estudio)
 
 #DBSCAN
-dbs.dbscan(X1, X1_normal, usadas1, caso_estudio) #0.2
+dbs.dbscan(X1, X1_normal, usadas1, caso_estudio)
 
 #Jerárquico
 jer.jerarquico(X1, usadas1, caso_estudio,100)
 jer.jerarquico(X1, usadas1, caso_estudio,4)
 
 #Birch
-bir.birch(X1, X1_normal, usadas1, caso_estudio, 2) #no ejecuta
+#bir.birch(X1, X1_normal, usadas1, caso_estudio, 2) #no ejecuta
 
 
 '''
@@ -99,7 +99,7 @@ Caso 3
 '''
 
 subset_caso3 = censo.loc[(censo['USOANTICONCEP']==1) & (censo['NDESEOHIJO']<8) & (censo['INGREHOG']<50000)]
-usadas3 = ['EDAD','INGREHOG','NHIJOS','NDESEOHIJO'] #'ANOPTRAB''INGREHOG_INTER',
+usadas3 = ['EDAD','INGREHOG','NHIJOS','NDESEOHIJO']
 X3 = subset_caso3[usadas3]
 X3_normal = X3.apply(norm_to_zero_one)
 caso_estudio = 'Caso3'
@@ -118,4 +118,4 @@ jer.jerarquico(X3, usadas3, caso_estudio,100)
 jer.jerarquico(X3, usadas3, caso_estudio,4)
 
 #Birch
-bir.birch(X3, X3_normal, usadas3, caso_estudio, 2) #No ejecuta
+#bir.birch(X3, X3_normal, usadas3, caso_estudio, 2) #No ejecuta
